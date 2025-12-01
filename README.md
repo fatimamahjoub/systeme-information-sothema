@@ -46,3 +46,4 @@ de gérer efficacement son personnel,
 - de maîtriser les stocks et équipements,
 - d’automatiser l’analyse des commandes.
 de contrôler les stocks d’équipements.
+<img width="646" height="458" alt="image" src="https://github.com/user-attachments/assets/f2ae287e-fe23-4eaa-ab6e-9e46688d9aac" />
